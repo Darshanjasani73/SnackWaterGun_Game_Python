@@ -7,7 +7,7 @@ Welcome to the Snack Water Gun Game project! This is a simple yet entertaining P
 2. Make sure you have Python installed.
 3. Open your terminal or command prompt.
 4. Navigate to the directory where the game files are located.
-5. Run the `snack_water_gun.py` file using the command `python snack_water_gun.py`.
+5. Run the `SnackWaterGun_Game.py` file using the command `python snack_water_gun.py`.
 6. Follow the on-screen instructions to choose your move (Snack, Water, or Gun).
 7. The computer will randomly select its move.
 8. The winner of the round will be announced based on the game rules:
