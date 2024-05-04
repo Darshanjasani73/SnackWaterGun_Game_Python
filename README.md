@@ -23,9 +23,6 @@ Welcome to the Snack Water Gun Game project! This is a simple yet entertaining P
 - Randomized computer moves for added challenge.
 - Easy-to-understand rules for beginners.
 
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
-
 ## Contact
 If you have any questions, suggestions, or feedback, please don't hesitate to reach out to Darshan Jasani at darshanjasani555@gmail.com.
 
