@@ -24,6 +24,6 @@ Welcome to the Snack Water Gun Game project! This is a simple yet entertaining P
 - Easy-to-understand rules for beginners.
 
 ## Contact
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out to Darshan Jasani at darshanjasani555@gmail.com.
+If you have any questions, suggestions, or feedback, please don't hesitate to reach out to me at djasani93@gmail.com.
 
 Enjoy playing the Snack Water Gun Game! 🐍💧🔫
